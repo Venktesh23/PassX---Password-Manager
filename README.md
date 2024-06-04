@@ -11,14 +11,3 @@ PassX is a web-based password manager designed to help you securely store and ma
 - Access your passwords from any device with internet access.
 - Automatic password generation for added security.
 
-## Demo
-
-You can access the live demo of passX at [https://passx.online/](https://passx.online/).
-
-## Getting Started
-
-To run passX locally or contribute to the project, follow these steps:
-
-1. Clone this repository: `git clone https://github.com/yourusername/passX.git`
-2. Open the project folder: `cd passX`
-3. Open `index.html` in your web browser to use the app locally.
